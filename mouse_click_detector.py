@@ -60,4 +60,4 @@ if __name__ == "__main__":
         # Show the image and detect mouse clicks
         mouse_click_handler.show_image()
     else:
-        print("No image found")
+        print("image not found")
