@@ -1,4 +1,4 @@
-# Importing necessary libraries
+# Importing necessary libraries.
 import cv2
 
 # Creating a class to handle mouse clicks on an image
